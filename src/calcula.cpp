@@ -8,6 +8,7 @@
 #include "area.h"
 
 int calcula(int x){
+	/*verifica se foi escolhida uma opcao valida e depois chama a funcao pra calcular de acordo com opcao escolhida*/
 	if(x<0 || x>8){
 		cout << "Digite uma opcao valida:" << endl;
 		cin >> x;
@@ -15,6 +16,7 @@ int calcula(int x){
 	}
 	float b,h,l,ar,ar1,ar2,ar3,ab;
 	float r;
+	
 	switch (x){
 
 		case 1:
