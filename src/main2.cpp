@@ -7,7 +7,7 @@
 
 int main(int argc,char *argv[]){
 	int x,y;
-
+	/*Chama as funcoes para achar o ultimo primo e achar fatorial*/
 	y = atoi(argv[1]);
 	x = fatorial(y);
 
