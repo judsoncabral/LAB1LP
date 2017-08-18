@@ -3,7 +3,7 @@
 	using std::cin;
 	using std::cout;
 	using std::endl;
-	
+	/*Calcula o perimetro de sua respectiva figura*/
 float perimetroTriangulo(float z){
 	float per;
 	per = 3*z;
