@@ -5,6 +5,7 @@
 	using std::endl;
 
 int main(void){
+	/*menu de escolhas*/
 	int op;
 	do{
 	cout << "Calculadora de Geometria Plana e Espacial" << endl;
