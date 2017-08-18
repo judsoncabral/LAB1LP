@@ -3,7 +3,7 @@
 	using std::cin;
 	using std::cout;
 	using std::endl;
-
+	/*calcula volume de sua respectiva figura*/
 float volumePiramide(float z,float y){
 	float v;
 	v = (z*y)/3;
