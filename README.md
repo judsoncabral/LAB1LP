@@ -1,10 +1,35 @@
 # LAB1 - LP
   Lista de questes de LP
-## Judson Cabral de Melo
+## Author 
+  Judson Cabral de Melo
+ 
+## Sobre:
+  É um programa para simular uma calculadora de geometria plano espacial e para calcular o número primo anterior ao fatorial do número fornecido. 
+
+
+
 ### Para compilar:
 
-  Entre no terminal,acesse a pasta onde foi baixado os arquivos e digite make.
+Para compilar, abra o terminal na pasta LAB1LP e screva o seguinte comando no terminal:
+
+ #### Para Calculadora de Geometria Plano Espacial
+ 
+  g++ -Wall -std=c++17 -pedantic src/main.cpp src/calcula.cpp src/perimetro.cpp src/area.cpp src/volume.cpp -o geometrica
+  
+ ##### Para calcular o número primo anterior ao fatorial do número fornecido. 
+ 
+  g++ -Wall -std=c++17 -pedantic src/main2.cpp src/fatorial.cpp src/primalidade.cpp  -o primo
+  
 ### Para execução:
 
-  Entre na pasta bin atraves do terminal e digite ./geometrica para entrar na calculadora e ./primo (numero desejado) para saber 
-o numero primo anterior em relação ao fatorial do numero escolhido.
+Para executar, abra o terminal na pasta LAB1LP e screva o seguinte comando no terminal:
+
+ #### Para Calculadora de Geometria Plano Espacial
+ 
+  ./geometrica
+  
+ ##### Para calcular calcular o número primo anterior ao fatorial do número fornecido. 
+ 
+  ./primo
+  
+  
