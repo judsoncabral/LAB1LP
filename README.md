@@ -30,6 +30,9 @@ Para executar, abra o terminal na pasta LAB1LP e screva o seguinte comando no te
   
  ##### Para calcular calcular o número primo anterior ao fatorial do número fornecido. 
  
-  ./primo
+  ./primo (Número que deseja calcular)
   
+  exemplo:
+  
+  ./primo 5
   
