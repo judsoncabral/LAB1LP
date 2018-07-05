@@ -1,4 +1,4 @@
-#include "calcula.h"
+#include "../include/calcula.h"
 #include <iostream>
 	using std::cin;
 	using std::cout;
