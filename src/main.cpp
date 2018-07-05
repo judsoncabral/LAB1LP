@@ -22,5 +22,6 @@ int main(void){
 	cin >> op;
 	calcula(op);
 	}while(op != 0);
-
+	
+	return EXIT_SUCCESS;
 }
