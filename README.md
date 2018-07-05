@@ -1,5 +1,5 @@
 # LAB1 - LP
-  Lista de questes de LP
+  Lista de questões de LP
 ## Author 
   Judson Cabral de Melo
  
