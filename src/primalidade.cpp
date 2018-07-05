@@ -1,5 +1,5 @@
 #include <iostream>
-#include "primalidade.h"
+#include "../include/primalidade.h"
 
 int primalidade(int x){
 
