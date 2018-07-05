@@ -1,4 +1,5 @@
 #include <iostream>
+#include "../include/fatorial.h"
 /*Calcula o fatorial por recursao*/
 int fatorial(int x){
 	if(x>1){
