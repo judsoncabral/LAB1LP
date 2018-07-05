@@ -3,7 +3,7 @@
 	using std::cin;
 	using std::cout;
 	using std::endl;
-#include "area.h"
+#include "../include/area.h"
 /*cada funcao calcula sua respectia area*/
 float areaTriangulo(float z,float y){
 	float a;
