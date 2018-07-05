@@ -2,10 +2,10 @@
 	using std::cin;
 	using std::cout;
 	using std::endl;
-#include "perimetro.h"
-#include "calcula.h"
-#include "volume.h"
-#include "area.h"
+#include "../include/perimetro.h"
+#include "../include/calcula.h"
+#include "../include/volume.h"
+#include "../include/area.h"
 
 int calcula(int x){
 	/*verifica se foi escolhida uma opcao valida e depois chama a funcao pra calcular de acordo com opcao escolhida*/
