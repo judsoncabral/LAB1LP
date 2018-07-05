@@ -9,4 +9,5 @@ int primalidade(int x){
 		}
 		
 	}
+	return x;
 }
