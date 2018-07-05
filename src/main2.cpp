@@ -1,5 +1,5 @@
-#include "fatorial.h"
-#include "primalidade.h"
+#include "../include/fatorial.h"
+#include "../include/primalidade.h"
 #include <iostream>
 	using std::cin;
 	using std::cout;
