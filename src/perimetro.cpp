@@ -1,4 +1,4 @@
-#include "perimetro.h"
+#include "../include/perimetro.h"
 #include <iostream>
 	using std::cin;
 	using std::cout;
